@@ -1,0 +1,7 @@
+Criação do projeto com múltiplas telas  com navegação
+Obrigatório
+Individual
+Prazo: 26/03/2024
+Enunciado
+
+Criar projeto com múltiplas telas incluindo listas (SectionList e VirtualizedList) por tela e Tela de Home como inicial
