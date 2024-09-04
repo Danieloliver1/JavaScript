@@ -1,2 +1,2 @@
-# JavaScript
-Projetos com javascript
+# Datascience_alura
+meu conhecimento com ciência de dados com alura
